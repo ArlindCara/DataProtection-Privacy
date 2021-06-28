@@ -11,7 +11,7 @@ Far partire da terminale il comando costituito da
 1) python
 2) nome file python da eseguire
 3) valore di k degree
-4) file csv da anonmizzare
+4) file csv da anonimizzare
 ```
 usage: python k-degree.py k_value graph_to_anonymize.csv
 ```
